@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chikkugeorge24
+- 👋 Hi, I’m Chikku George, Software Engineer
 - 👀 I’m interested in learning new programming languages and writing programs in it.
 - 🌱 I’m currently learning NFTs
 
